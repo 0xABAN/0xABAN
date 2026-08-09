@@ -1,8 +1,7 @@
 # Adam
 ds+stat student at penn state ('27), software engineer, and 3x hackathon winner.
 
-I build AI systems: agents, LLM pipelines, whatever looks interesting.
-I've worked at amazon, ibm, and lockheed martin.
+I build whatever I find interesting. past companies include amazon & ibm.
 
 <p align=center>
   <img width=279 src="https://i.imgur.com/ewMj7f3.jpeg" alt="" />
