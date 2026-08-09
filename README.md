@@ -32,7 +32,3 @@ I've worked at amazon, ibm, and lockheed martin.
     <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31bqqior62rs6m4rewpadlcws2oa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false" alt="spotify-github-profile" />
   </a>
 </p>
-
-## let's connect
-- [LinkedIn](https://linkedin.com/in/adam-torres-encarnacion)
-- [Email](mailto:art5809@psu.edu)
