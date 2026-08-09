@@ -11,7 +11,7 @@ I've worked at amazon, ibm, and lockheed martin.
 
 <p align=center>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,cpp,pytorch,fastapi,flask,nodejs,postgres,mongodb,aws,azure,git,bash" alt="python,ts,js,java,cs,cpp,pytorch,fastapi,flask,nodejs,postgres,mongodb,aws,azure,git" />
+    <img src="https://skillicons.dev/icons?i=python,ts,js,java,cs,cpp,pytorch,fastapi,flask,nodejs,postgres,mongodb,aws,azure,git" alt="python,ts,js,java,cs,cpp,pytorch,fastapi,flask,nodejs,postgres,mongodb,aws,azure,git" />
   </a>
 </p>
 
