@@ -1,4 +1,4 @@
-# Adam
+# adam
 ds+stat student at penn state ('27), software engineer, and 3x hackathon winner.
 
 I build whatever I find interesting. past companies include amazon & ibm.
@@ -16,7 +16,7 @@ I build whatever I find interesting. past companies include amazon & ibm.
 
 <br />
 
-## Stuff I made
+## stuff i made
 - [maestro](https://github.com/0xABAN/maestro): AI canvas that draws with you. ByteDance 2nd place (solo).
 - [simulacra](https://github.com/0xABAN/simulacra): Learn not just from the past, but also from the future. YHacks 1st place.
 - [copycat](https://github.com/0xABAN/copycat): Design-reference MCP for coding agents.
