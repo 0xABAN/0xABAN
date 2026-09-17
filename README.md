@@ -16,14 +16,6 @@ I build whatever I find interesting. past companies include amazon & ibm.
 
 <br />
 
-## stuff i made
-- [maestro](https://github.com/0xABAN/maestro): AI canvas that draws with you. ByteDance 2nd place (solo).
-- [simulacra](https://github.com/0xABAN/simulacra): Learn not just from the past, but also from the future. YHacks 1st place.
-- [copycat](https://github.com/0xABAN/copycat): Design-reference MCP for coding agents.
-- [fit-check](https://github.com/0xABAN/fit-check): 360° outfit video to TRIBEv2 fit prediction.
-- [agent-dj](https://github.com/0xABAN/agent-dj): Spotify now-playing in the Claude Code / OpenCode statusline.
-- [Definitive Multiplayer](https://github.com/0xABAN/DefinitiveMultiplayer): Multiplayer QoL for Terraria on tModLoader.
-
 ## what i'm listening to
 
 <p align=center>
