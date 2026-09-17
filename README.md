@@ -1,5 +1,5 @@
 # adam
-ds+stat student at penn state ('27), software engineer, and 3x hackathon winner.
+ds+stat student at penn state ('27), software engineer, and 4x hackathon winner.
 
 I build whatever I find interesting. past companies include amazon & ibm.
 
